@@ -2,7 +2,7 @@
   
 
 - 🌱 I’m currently learning Javascript,React,Bootstrap,MOCHA & CHAI.  
-  
+  This is my online portfolio: <h3>https://peposportfolio.netlify.app/</h3>
 
 <br/>  
 
