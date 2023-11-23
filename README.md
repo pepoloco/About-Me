@@ -1,7 +1,7 @@
 ### <div align="center">I'm Pepo , currently stuying Javascript</div>  
   
 
-- 🌱 I’m currently learning Javascript,React,Bootstrap,MOCHA & CHAI.  
+- 🌱 I’m currently learning Javascript , React , also I am starting to work on some open source github projects.
   <h3>This is my online portfolio</h3> <h4>https://peposportfolio.netlify.app/</h4>
 
 <br/>  
