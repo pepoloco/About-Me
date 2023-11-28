@@ -58,20 +58,6 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=pepoloco&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-
-
-### Spotify  
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=21lhiwrubz4dsieahbxnyxl5a&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" /></div>  
-
-<br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=pepoloco&&style=flat-square" align="center" />
