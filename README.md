@@ -38,10 +38,10 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/pepoloco" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<a href="banchevpepo@gmail.com" target="_blank">
+<img src=https://download.logo.wine/logo/Gmail/Gmail-Logo.wine.png?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/pepo-banchev" target="_blank">
+<a href="https://www.linkedin.com/in/penyo-banchev-6b5908165?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/p.banchevloco" target="_blank">
