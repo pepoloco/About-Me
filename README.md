@@ -39,7 +39,7 @@
 ## Connect with me  
 <div align="center">
 <a href="mailto:banchevpepo@gmail.com" target="_blank">
-  <img src="https://download.logo.wine/logo/Gmail/Gmail-Logo.wine.png?&style=for-the-badge&logo=github&logoColor=white" alt="gmail" style="margin-bottom: 5px;" />
+  <img src="https://icon-library.com/images/microsoft-mail-icon/microsoft-mail-icon-20.jpg?&style=for-the-badge&logo=github&logoColor=white" alt="mail" style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/penyo-banchev-6b5908165?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
