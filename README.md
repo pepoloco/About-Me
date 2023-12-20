@@ -59,8 +59,10 @@
   <strong>Github Stats</strong>
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pepoloco&show_icons=true&count_private=true&hide_border=true" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pepoloco&show_icons=true&theme=transparent"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pepoloco&langs_count=8"/>
 </div>
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=pepoloco&&style=flat-square" align="center" />
