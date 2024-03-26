@@ -2,7 +2,7 @@
   <strong>I'm Pepo, currently studying Javascript</strong>
 </div>
 
-- 🌱 I’m currently learning JavaScript, React, also I am starting to work on some open source GitHub projects.
+- 🌱 I’m currently enhancing my skills through ASTQB.
 <h3>This is my online portfolio</h3> <h4>https://peposportfolio.netlify.app/</h4>
 
 <br />
