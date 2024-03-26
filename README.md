@@ -1,5 +1,5 @@
 <div align="center">
-  <strong>I'm Pepo, currently studying Javascript</strong>
+  <strong>Hello, I am Pepo</strong>
 </div>
 
 - 🌱 I’m currently enhancing my skills through ASTQB.
